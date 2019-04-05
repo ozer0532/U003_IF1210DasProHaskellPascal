@@ -1,5 +1,5 @@
 (* Chokyi Ozer / 16518269 / Minggu 12 DasPro *)
-Program lingkaran;
+program lingkaran;
 (* Input: jari-jari *)
 (* Output: luas lingkaran *)
 
